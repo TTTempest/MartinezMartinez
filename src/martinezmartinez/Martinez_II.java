@@ -22,5 +22,13 @@ public class Martinez_II {
     public int sum_quin(int num1,int num2){
         int sq=(num1+num2)*5;
         return sq;
+    
+    public int sum_dob(int num1,int num2){
+        int sd=(num1+num2)*2;
+        return sd;
+    }
+    public int sum_tri(int num1,int num2){
+        int st=(num1+num2)*3;
+        return st;
     }
 }
