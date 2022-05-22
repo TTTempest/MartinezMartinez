@@ -16,4 +16,13 @@ public class Martinez_I {
         return sum;
     }
     
+    public int div (int num1, int num2){
+        
+        int di=num1/num2;
+        return di;
+    }
+    public double porcent50(int num1){
+        double por=num1*0.5;
+        return por;
+    }
 }

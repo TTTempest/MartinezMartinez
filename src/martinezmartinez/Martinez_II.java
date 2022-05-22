@@ -15,4 +15,13 @@ public class Martinez_II {
         mul=num1*num2;
         return mul;
     }
+    
+    public int sum_dob(int num1,int num2){
+        int sd=(num1+num2)*2;
+        return sd;
+    }
+    public int sum_tri(int num1,int num2){
+        int st=(num1+num2)*3;
+        return st;
+    }
 }
