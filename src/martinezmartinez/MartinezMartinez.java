@@ -14,7 +14,13 @@ public class MartinezMartinez {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Martinez_I s=new Martinez_I();
+        s.suma(5,6);
+        Martinez_II m=new Martinez_II();
+        m.multi(5,6);
+        System.out.println(s);
+        System.out.println(m);
+
     }
     
 }

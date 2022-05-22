@@ -10,4 +10,9 @@ package martinezmartinez;
  */
 public class Martinez_II {
     
+    public int multi(int num1,int num2){
+        int mul;
+        mul=num1*num2;
+        return mul;
+    }
 }
