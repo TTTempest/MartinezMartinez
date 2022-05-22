@@ -16,4 +16,12 @@ public class Martinez_I {
         return sum;
     }
     
+    public int sum_s(int num1,int num2){
+        int ss=(num1+num2)*6;
+        return ss;
+    }
+    public int sum_sep(int num1,int num2){
+        int sse=(num1+num2)*7;
+        return sse;
+    }
 }

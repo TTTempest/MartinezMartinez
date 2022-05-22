@@ -15,4 +15,12 @@ public class Martinez_II {
         mul=num1*num2;
         return mul;
     }
+    public int sum_cuad(int num1,int num2){
+        int sc=(num1+num2)*4;
+        return sc;
+    }
+    public int sum_quin(int num1,int num2){
+        int sq=(num1+num2)*5;
+        return sq;
+    }
 }
